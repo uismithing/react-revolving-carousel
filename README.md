@@ -22,7 +22,12 @@ See the demo at [http://www.uismithing.com/main/carousel](http://www.uismithing.
 ### Deploy
 `import Carousel from "react-revolving-carousel"`
 
-`<Carousel {...props}/>`
+<Carousel ref="reactcarousel" {...props}>
+  <div>section 0 content</div>
+  <div>section 1 content</div>
+  ...
+  <div>section n content</div>
+</Carousel>
 
 ### props
   * Panel:{}
