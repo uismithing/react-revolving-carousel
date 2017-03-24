@@ -6,12 +6,12 @@ React UI component for filtering linearly arranged data. The layout is comprised
   * Full React/Flux pattern
   * Minimal dependencies (lodash, react-draggable, react-velocity)
   * Callbacks for onReady, onClick and onChange
-  * Methods for back, next, and focused
+  * Methods for focus and draggable
   * Fluid layout
   * CSS Rich
 
-### Try it
-See the demo at [http://www.uismithing.com/main/carousel](http://www.uismithing.com/main/carousel).
+### Learn more
+See the demo at [http://www.uismithing.com/main/wares/carousel](http://www.uismithing.com/main/wares/carousel).
 
 ### Repository
 [https://github.com/uismithing/react-revolving-carousel](https://github.com/uismithing/react-revolving-carousel)
